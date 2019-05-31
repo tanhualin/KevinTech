@@ -1,0 +1,15 @@
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\bin\Debug\NLog.config
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\bin\Debug\ConsoleRabbitMQ.Receive.exe.config
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\bin\Debug\ConsoleRabbitMQ.Receive.exe
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\bin\Debug\ConsoleRabbitMQ.Receive.pdb
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\bin\Debug\NLog.dll
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\bin\Debug\RabbitMQ.Client.dll
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\bin\Debug\NLog.xml
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\bin\Debug\RabbitMQ.Client.xml
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\obj\Debug\ConsoleRabbitMQ.Receive.csproj.CoreCompileInputs.cache
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\obj\Debug\ConsoleRabbitMQ.Receive.csproj.CopyComplete
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\obj\Debug\ConsoleRabbitMQ.Receive.exe
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\obj\Debug\ConsoleRabbitMQ.Receive.pdb
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\obj\Debug\ConsoleRabbitMQ.Receive.csprojAssemblyReference.cache

@@ -1,0 +1,2 @@
+1、WebAPI.JwtBearer 项目解决WebAPI验证及生成JwtToken
+2、Mvc.JwtBearer 验证注销Token失败，该方式注销后Token还是可被访问

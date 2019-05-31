@@ -1,0 +1,12 @@
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\bin\Debug\ConsoleRabbitMQ.Send.exe.config
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\bin\Debug\ConsoleRabbitMQ.Send.exe
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\bin\Debug\ConsoleRabbitMQ.Send.pdb
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\bin\Debug\RabbitMQ.Client.dll
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\bin\Debug\RabbitMQ.Client.xml
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\obj\Debug\ConsoleRabbitMQ.Send.csproj.CoreCompileInputs.cache
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\obj\Debug\ConsoleRabbitMQ.Send.csproj.CopyComplete
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\obj\Debug\ConsoleRabbitMQ.Send.exe
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\obj\Debug\ConsoleRabbitMQ.Send.pdb
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\obj\Debug\ConsoleRabbitMQ.Send.csprojAssemblyReference.cache

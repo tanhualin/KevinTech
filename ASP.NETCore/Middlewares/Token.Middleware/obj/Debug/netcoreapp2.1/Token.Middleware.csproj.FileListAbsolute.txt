@@ -1,0 +1,14 @@
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\bin\Debug\netcoreapp2.1\Token.Middleware.deps.json
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\bin\Debug\netcoreapp2.1\Token.Middleware.runtimeconfig.json
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\bin\Debug\netcoreapp2.1\Token.Middleware.runtimeconfig.dev.json
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\bin\Debug\netcoreapp2.1\Token.Middleware.dll
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\bin\Debug\netcoreapp2.1\Token.Middleware.pdb
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\obj\Debug\netcoreapp2.1\Token.Middleware.csproj.CoreCompileInputs.cache
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\obj\Debug\netcoreapp2.1\Token.Middleware.RazorAssemblyInfo.cache
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\obj\Debug\netcoreapp2.1\Token.Middleware.RazorAssemblyInfo.cs
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\obj\Debug\netcoreapp2.1\Token.Middleware.AssemblyInfoInputs.cache
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\obj\Debug\netcoreapp2.1\Token.Middleware.AssemblyInfo.cs
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\obj\Debug\netcoreapp2.1\Token.Middleware.RazorTargetAssemblyInfo.cache
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\obj\Debug\netcoreapp2.1\Token.Middleware.dll
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\obj\Debug\netcoreapp2.1\Token.Middleware.pdb
+F:\Git\KevinTech\ASP.NETCore\Middlewares\Token.Middleware\obj\Debug\netcoreapp2.1\Token.Middleware.csprojAssemblyReference.cache

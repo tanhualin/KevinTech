@@ -1,0 +1,11 @@
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Pulish\bin\Debug\ConsoleRabbitMQ.Pulish.exe.config
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Pulish\bin\Debug\ConsoleRabbitMQ.Pulish.exe
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Pulish\bin\Debug\ConsoleRabbitMQ.Pulish.pdb
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Pulish\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Pulish\bin\Debug\RabbitMQ.Client.dll
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Pulish\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Pulish\bin\Debug\RabbitMQ.Client.xml
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Pulish\obj\Debug\ConsoleRabbitMQ.Pulish.csproj.CoreCompileInputs.cache
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Pulish\obj\Debug\ConsoleRabbitMQ.Pulish.csproj.CopyComplete
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Pulish\obj\Debug\ConsoleRabbitMQ.Pulish.exe
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Pulish\obj\Debug\ConsoleRabbitMQ.Pulish.pdb
