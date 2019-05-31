@@ -44,7 +44,7 @@ namespace ConsoleRabbitMQ.Subscribe
                         Console.WriteLine(string.Format("**【{0}】**接收时间:{1}，消息内容：{2}", index.ToString(), DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"), msgBody));
                         //int dots = msgBody.Split('.').Length - 1;
                         System.Threading.Thread.Sleep(2000);
-                        Console.WriteLine(" ---------");
+                        Console.WriteLine(" *******************  ");
                         //处理完成，告诉Broker可以服务端可以删除消息，分配新的消息过来
                         channel.BasicAck(deliveryTag: ea.DeliveryTag, multiple: false);
                         index++;
