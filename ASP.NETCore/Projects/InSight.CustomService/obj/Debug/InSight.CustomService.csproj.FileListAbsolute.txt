@@ -1,0 +1,17 @@
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\obj\Debug\InSight.CustomService.csprojAssemblyReference.cache
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\obj\Debug\InSight.CustomService.csproj.CoreCompileInputs.cache
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\bin\Debug\NLog.config
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\bin\Debug\InSight.CustomService.exe.config
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\bin\Debug\InSight.CustomService.exe
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\bin\Debug\InSight.CustomService.pdb
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\bin\Debug\Newtonsoft.Json.dll
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\bin\Debug\NLog.dll
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\bin\Debug\RabbitMQ.Client.dll
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\bin\Debug\Newtonsoft.Json.xml
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\bin\Debug\NLog.xml
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\bin\Debug\RabbitMQ.Client.xml
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\obj\Debug\InSight.CustomService.csproj.CopyComplete
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\obj\Debug\InSight.CustomService.exe
+F:\Git\KevinTech\ASP.NETCore\Projects\InSight.CustomService\obj\Debug\InSight.CustomService.pdb
