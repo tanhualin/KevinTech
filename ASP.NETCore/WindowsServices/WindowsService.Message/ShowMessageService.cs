@@ -17,7 +17,7 @@ namespace WindowsService.Message
         {
             logger.Info("开始启动服务！调用窗口！");
             System.Threading.Thread.Sleep(5000);
-            ShowMessageBoxTimeout("发现InSight定制功能重要更新，3秒后关闭InSight，将自动更新。", "InSight定制功能服务提示", 5000);
+            ShowMessageBoxTimeout("发现InSight定制功能重要更新，5秒后关闭InSight，将自动更新。", "InSight定制功能服务提示", 5000);
         }
 
         protected override void OnStop()
