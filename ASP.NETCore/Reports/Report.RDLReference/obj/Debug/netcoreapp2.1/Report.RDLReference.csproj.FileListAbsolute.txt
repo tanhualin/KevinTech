@@ -1,9 +1,0 @@
-F:\Git\KevinTech\ASP.NETCore\Reports\Report.RDLReference\bin\Debug\netcoreapp2.1\Report.RDLReference.deps.json
-F:\Git\KevinTech\ASP.NETCore\Reports\Report.RDLReference\bin\Debug\netcoreapp2.1\Report.RDLReference.dll
-F:\Git\KevinTech\ASP.NETCore\Reports\Report.RDLReference\obj\Debug\netcoreapp2.1\Report.RDLReference.csproj.CoreCompileInputs.cache
-F:\Git\KevinTech\ASP.NETCore\Reports\Report.RDLReference\obj\Debug\netcoreapp2.1\Report.RDLReference.AssemblyInfoInputs.cache
-F:\Git\KevinTech\ASP.NETCore\Reports\Report.RDLReference\obj\Debug\netcoreapp2.1\Report.RDLReference.AssemblyInfo.cs
-F:\Git\KevinTech\ASP.NETCore\Reports\Report.RDLReference\bin\Debug\netcoreapp2.1\Report.RDLReference.pdb
-F:\Git\KevinTech\ASP.NETCore\Reports\Report.RDLReference\obj\Debug\netcoreapp2.1\Report.RDLReference.dll
-F:\Git\KevinTech\ASP.NETCore\Reports\Report.RDLReference\obj\Debug\netcoreapp2.1\Report.RDLReference.pdb
-F:\Git\KevinTech\ASP.NETCore\Reports\Report.RDLReference\obj\Debug\netcoreapp2.1\Report.RDLReference.csprojAssemblyReference.cache
