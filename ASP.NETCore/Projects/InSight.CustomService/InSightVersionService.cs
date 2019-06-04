@@ -88,8 +88,7 @@ namespace InSight.CustomService
 
                         //Console.WriteLine(string.Format("**【{0}】**接收时间:{1}，消息内容：{2}", index.ToString(), DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"), msgBody));
                         //int dots = msgBody.Split('.').Length - 1;
-                        
-                      
+
                         //处理完成，告诉Broker可以服务端可以删除消息，分配新的消息过来
                         if (channel.MessageCount(Queue_Name) == 0)
                         {
