@@ -38,15 +38,30 @@ namespace ConsoleRabbitMQ.Subscribe
                     channel.BasicQos(prefetchSize: 0, prefetchCount: 1, global: false);//告诉broker同一时间只处理一个消息
                     int index = 1;                                                                 //channel.QueueBind(QueueName, ExchangeName, routingKey: QueueName);
                     var consumer = new EventingBasicConsumer(channel);
+                   
                     consumer.Received += (model, ea) =>
                     {
                         var msgBody = Encoding.UTF8.GetString(ea.Body);
-                        Console.WriteLine(string.Format("**【{0}】**接收时间:{1}，消息内容：{2}", index.ToString(), DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"), msgBody));
+                        try
+                        {
+                            //var entity = Newtonsoft.Json.JsonConvert.DeserializeObject<CustomVersionModel>(msgBody);
+                        }
+                        catch(Exception err)
+                        { }
+                        Console.WriteLine(string.Format("【{0}】时间:{1}，内容：{2}", ea.DeliveryTag, DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"), msgBody));
                         //int dots = msgBody.Split('.').Length - 1;
                         System.Threading.Thread.Sleep(2000);
                         Console.WriteLine(" *******************  ");
                         //处理完成，告诉Broker可以服务端可以删除消息，分配新的消息过来
-                        channel.BasicAck(deliveryTag: ea.DeliveryTag, multiple: false);
+
+                        if (channel.MessageCount(Queue_Name) == 0)
+                        {
+                            channel.BasicNack(ea.DeliveryTag, false, true);
+                        }
+                        else
+                        {
+                            channel.BasicAck(deliveryTag: ea.DeliveryTag, multiple: false);
+                        }
                         index++;
                     };
                     //noAck设置false,告诉broker，发送消息之后，消息暂时不要删除，等消费者处理完成再说

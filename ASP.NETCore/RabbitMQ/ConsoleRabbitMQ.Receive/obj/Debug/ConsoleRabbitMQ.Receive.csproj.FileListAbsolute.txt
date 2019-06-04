@@ -12,4 +12,3 @@ F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\obj\Debug\ConsoleR
 F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\obj\Debug\ConsoleRabbitMQ.Receive.csproj.CopyComplete
 F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\obj\Debug\ConsoleRabbitMQ.Receive.exe
 F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\obj\Debug\ConsoleRabbitMQ.Receive.pdb
-F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Receive\obj\Debug\ConsoleRabbitMQ.Receive.csprojAssemblyReference.cache

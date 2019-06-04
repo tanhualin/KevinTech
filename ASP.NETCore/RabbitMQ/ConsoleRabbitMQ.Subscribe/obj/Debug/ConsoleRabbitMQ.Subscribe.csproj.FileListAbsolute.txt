@@ -9,3 +9,5 @@ F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Subscribe\obj\Debug\Consol
 F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Subscribe\obj\Debug\ConsoleRabbitMQ.Subscribe.csproj.CopyComplete
 F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Subscribe\obj\Debug\ConsoleRabbitMQ.Subscribe.exe
 F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Subscribe\obj\Debug\ConsoleRabbitMQ.Subscribe.pdb
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Subscribe\bin\Debug\Newtonsoft.Json.dll
+F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Subscribe\bin\Debug\Newtonsoft.Json.xml

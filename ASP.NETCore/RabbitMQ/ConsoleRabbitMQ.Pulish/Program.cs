@@ -32,11 +32,15 @@ namespace ConsoleRabbitMQ.Pulish
                     // 声明exchange及交换器类型:fanout
                     channel.ExchangeDeclare(ExchangeName, "fanout");
 
-                    for (int i = 0; i < 100; i++)
+                    for (int i = 0; i < 10; i++)
                     {
                         // 消息内容
                         //消息内容
-                        string message = "测试交换器下多消息者调用：【" + i.ToString() + "】";
+                        var entity = new CustomVersionModel();
+                        entity.preVersion = (i - 1).ToString();
+                        entity.version = i.ToString();
+                        entity.verDescription = "测试";
+                        string message = Newtonsoft.Json.JsonConvert.SerializeObject(entity);
                         //推送消息
                         byte[] bytes = Encoding.UTF8.GetBytes(message);
                         channel.BasicPublish(ExchangeName, "", null, bytes);

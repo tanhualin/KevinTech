@@ -9,4 +9,3 @@ F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\obj\Debug\ConsoleRabb
 F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\obj\Debug\ConsoleRabbitMQ.Send.csproj.CopyComplete
 F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\obj\Debug\ConsoleRabbitMQ.Send.exe
 F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\obj\Debug\ConsoleRabbitMQ.Send.pdb
-F:\Git\KevinTech\ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Send\obj\Debug\ConsoleRabbitMQ.Send.csprojAssemblyReference.cache
