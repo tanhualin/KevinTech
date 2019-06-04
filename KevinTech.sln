@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRabbitMQ.Pulish", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRabbitMQ.Subscribe", "ASP.NETCore\RabbitMQ\ConsoleRabbitMQ.Subscribe\ConsoleRabbitMQ.Subscribe.csproj", "{C4685482-79C8-4781-92B3-8C8D46845356}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InSight.CustomService", "ASP.NETCore\Projects\InSight.CustomService\InSight.CustomService.csproj", "{93D3A3A7-3879-423E-83E2-FEDE3DB6DE98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{C4685482-79C8-4781-92B3-8C8D46845356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4685482-79C8-4781-92B3-8C8D46845356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4685482-79C8-4781-92B3-8C8D46845356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D3A3A7-3879-423E-83E2-FEDE3DB6DE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D3A3A7-3879-423E-83E2-FEDE3DB6DE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D3A3A7-3879-423E-83E2-FEDE3DB6DE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D3A3A7-3879-423E-83E2-FEDE3DB6DE98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,9 +120,9 @@ Global
 		{E83F5CE8-3A9A-4A9A-B057-499B3C30AF08} = {526FA368-2F42-4E47-A32D-23E803C93981}
 		{D48216FA-E8F7-4F63-BF45-FE27B53CE226} = {526FA368-2F42-4E47-A32D-23E803C93981}
 		{C4685482-79C8-4781-92B3-8C8D46845356} = {526FA368-2F42-4E47-A32D-23E803C93981}
+		{93D3A3A7-3879-423E-83E2-FEDE3DB6DE98} = {CB4F4CE4-7C7D-4E6D-8568-6110CAF525D8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EC6570A5-E056-4A39-82A1-9DFF26980DBF}
 	EndGlobalSection
-
 EndGlobal
