@@ -28,7 +28,7 @@ namespace InSight.CustomService
             factory.Port = 5672;    //服务器端口号：默认端口号为：5672
             factory.Endpoint = new AmqpTcpEndpoint(new System.Uri("amqp://172.21.26.120/"));//服务器IP：172.21.26.120;
             factory.UserName = "admin"; //服务器登录账号
-            factory.Password = "2020"; //服务器密码账号
+            factory.Password = "2020"; //服务器密码账号 
             factory.VirtualHost = "testhost"; //
             using (IConnection conn = factory.CreateConnection())
             {
@@ -39,6 +39,7 @@ namespace InSight.CustomService
                     //channel.ExchangeDeclare(ExchangeName, "direct", durable: true, autoDelete: false, arguments: null);
                     channel.QueueDeclare(Queue_Name, durable: false, autoDelete: false, exclusive: false, arguments: null);
                     // 绑定队列到交换机
+
                     channel.QueueBind(Queue_Name, ExchangeName, "");
 
                     channel.BasicQos(prefetchSize: 0, prefetchCount: 1, global: false);//告诉broker同一时间只处理一个消息                                                           //channel.QueueBind(QueueName, ExchangeName, routingKey: QueueName);
@@ -56,7 +57,7 @@ namespace InSight.CustomService
                             if (!cusList.Contains(entity))
                             {
                                 cusList.Add(entity);
-                                //拉取文件
+                                //拉取文件,
 
                             }
                             else
